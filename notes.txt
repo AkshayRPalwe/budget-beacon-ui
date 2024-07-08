@@ -1,0 +1,4 @@
+1. angular.json --> "prefix": "app" --> remove "app"
+    When I create a new components, 'app' prefix will not appear.
+
+2. Create a module and import all components form angular material and export them to all local components.
